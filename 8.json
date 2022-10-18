@@ -1,0 +1,35 @@
+{
+   "name" : "Benzegol 8",
+   "description" : "2-Friendly OpenSea Putin that enjoys long swims in the ocean.",
+   "external_url" : "https://anybet.me/",
+   "image" : "https://raw.githubusercontent.com/Roberttorres31/Imagenes/main/Benzegol-22.png",
+   "attributes" : [
+      {
+         "trait_type" : "level",
+         "value" : 3
+      },
+      {
+         "trait_type" : "stamina",
+         "value" : 11.7
+      },
+      {
+         "trait_type" : "personality",
+         "value" : "sleepy"
+      },
+      {
+         "display_type" : "boost_number",
+         "trait_type" : "aqua_power",
+         "value" : 30
+      },
+      {
+         "display_type" : "boost_percentage",
+         "trait_type" : "stamina_increase",
+         "value" : 15
+      },
+      {
+         "display_type" : "number",
+         "trait_type" : "generation",
+         "value" : 1
+      }
+   ]
+}
